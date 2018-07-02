@@ -2,10 +2,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.borobudur.moodlemobile"
         versionCode = "35000"
-        version   = "3.5.0">
-    <name>Moodle</name>
+        version   = "0.0.1">
+    <name>Borobudur Elearning App</name>
 
     <description>
         Moodle official app
@@ -16,7 +16,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.5.0</string>
+        <string>0.0.1</string>
     </edit-config>
 
     <gap:platform name="ios" />
