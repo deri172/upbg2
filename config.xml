@@ -11,7 +11,7 @@
         Universitas Borobudur official elearning app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://lantai5.com" email="dev@borobudur.ac.id">
         UNBOR Elearning Team
     </author>
 
@@ -22,7 +22,7 @@
     <gap:platform name="ios" />
     <gap:platform name="android" />
 
-    <access origin="*" />
+    <access origin="http://borobudur.elearning.ac.id/" />
     <access origin="tel:*" launch-external="yes" />
     <access origin="mailto:*" launch-external="yes" />
     <access origin="geo:*" launch-external="yes" />
