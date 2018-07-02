@@ -12,7 +12,7 @@
     </description>
 
     <author href="http://lantai5.com" email="dev@borobudur.ac.id">
-        UNBOR Elearning Team
+        Universitas Borobudur Elearning Team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
@@ -32,7 +32,7 @@
     <allow-navigation href="data:*" />
     <allow-navigation href="*" />
 
-    <allow-intent href="*" />
+    <allow-intent href="http://borobudur.elearning.ac.id/" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
